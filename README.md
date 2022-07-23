@@ -1,6 +1,6 @@
 # Pinia Dynamic Logo
 
-![effect.gif](./dist/effect.gif '效果图')
+![effect.gif](https://github.com/SkyBlueFeet/pinia-logo/blob/main/dist/effect.gif '效果图')
 
 灵感来自于[piniajs/example-vue-3-vite](https://stackblitz.com/github/piniajs/example-vue-3-vite)
 

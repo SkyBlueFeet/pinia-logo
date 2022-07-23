@@ -1,9 +1,7 @@
 {
   "name": "pinia-logo",
   "description": "你可以非常简单的将这个可爱的宠物放在页面右下角,建议开发时使用",
-  "files": [
-    "dist,type.d.ts"
-  ],
+  "files": ["dist", "type.d.ts"],
   "main": "./dist/pinia-logo.umd.js",
   "license": "MIT",
   "exports": {
@@ -14,8 +12,7 @@
   },
   "typings": "type.d.ts",
   "types": "type.d.ts",
-  "private": true,
-  "version": "0.1.0",
+  "version": "0.1.2",
   "type": "module",
   "module": "dist/pinia-logo.es.js",
   "scripts": {
